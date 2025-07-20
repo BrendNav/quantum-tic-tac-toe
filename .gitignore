@@ -1,20 +1,15 @@
 # Python
 __pycache__/
-*.pyc
-*.pyo
+*.py[cod]
 *.pyd
-venv/
+*.pyo
+.venv/
 .env
-
-# Node.js
-node_modules/
-dist/
-build/
 
 # VS Code
 .vscode/
 *.code-workspace
 
-# OS
+# OS-specific
 .DS_Store
 Thumbs.db
